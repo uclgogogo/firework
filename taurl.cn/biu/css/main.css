@@ -232,7 +232,7 @@ body {
     width: 50%;
     height: 30px;
     font-size: 1rem;
-    font-family: "Russo One", arial, sans-serif;
+    font-family: "Open Sans", Arial, sans-serif;
     color: rgba(255, 255, 255, 0.5);
     letter-spacing: 0.06em;
     background-color: transparent;
@@ -410,7 +410,7 @@ body {
     border-radius: 2px;
     padding: 0.25em 0.75em;
     margin-top: 0.36em;
-    font-family: "Russo One", arial, sans-serif;
+    font-family: "Open Sans", Arial, sans-serif;
     font-size: 1em;
     color: rgba(255, 255, 255, 0.5);
     text-transform: uppercase;
